@@ -1,0 +1,9 @@
+D:\My Work - MIC\Task 01\Computer Vision\Computer Vision\bin\Debug\Computer Vision.exe.config
+D:\My Work - MIC\Task 01\Computer Vision\Computer Vision\bin\Debug\Computer Vision.exe
+D:\My Work - MIC\Task 01\Computer Vision\Computer Vision\bin\Debug\Computer Vision.pdb
+D:\My Work - MIC\Task 01\Computer Vision\Computer Vision\obj\Debug\Computer Vision.csprojResolveAssemblyReference.cache
+D:\My Work - MIC\Task 01\Computer Vision\Computer Vision\obj\Debug\Computer Vision.exe
+D:\My Work - MIC\Task 01\Computer Vision\Computer Vision\obj\Debug\Computer Vision.pdb
+D:\My Work - MIC\Task 01\Computer Vision\Computer Vision\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+D:\My Work - MIC\Task 01\Computer Vision\Computer Vision\bin\Debug\Newtonsoft.Json.dll
+D:\My Work - MIC\Task 01\Computer Vision\Computer Vision\bin\Debug\Newtonsoft.Json.xml
